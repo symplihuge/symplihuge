@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @symplihuge
+- 👋 Hi, I’m 
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning html, css, javascript
 - 💞️ I’m looking to collaborate on web dev
-- 📫 How to reach me whatsapp +2348130092416, IG: sympli_huge, mail: crownbaba18@gmail.com
+- 📫 How to reach me , IG: , mail:
 
 <!---
 symplihuge/symplihuge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
